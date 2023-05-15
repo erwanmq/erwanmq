@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working to **improve my skills**
 
-- 🌱 I’m currently learning **C++ and Python**
+- 🌱 I’m currently learning **C++, Python and MATLAB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
