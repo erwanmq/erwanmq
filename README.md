@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/PsyKozZ09/PsyKozZ09/tree/main/E8mi.gif)
+![MasterHead](https://github.com/PsyKozZ09/PsyKozZ09/blob/main/a3ftzqi7ide71.png)
 
 <h1 align="center">Hi 👋, I'm Erwan</h1>
 <h3 align="center">🧑‍💻💫 A space and coding lover 💫🧑‍💻</h3>
