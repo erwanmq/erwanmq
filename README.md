@@ -8,10 +8,6 @@
 - 🔭 I’m currently working to **improve my skills**
 
 - 🌱 I’m currently learning **C++, Python and MATLAB**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mequinion-erwan" target="blank"><img align="center" src="https://github.com/PsyKozZ09/PsyKozZ09/blob/main/linkedin_logo.png" alt="https://www.linkedin.com/in/mequinion-erwan" height="60" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
